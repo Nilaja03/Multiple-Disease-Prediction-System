@@ -1,0 +1,1 @@
+streamlit run "C:\Users\Nilanjana\Documents\2021-2025\2022-2025 KSIT\KSIT\2nd to 4th year (2022-2025)\2nd Year (2022-2023)\4th Sem\5) 21BE45 - Bio\Project\Project - Multiple Disease Prediction\multipledpweb.py"
